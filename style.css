@@ -1,0 +1,42 @@
+body {
+    margin-top: 200px;
+    background-image: url(images/5594016.jpg);
+    background-repeat: no-repeat;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+    font-family: Arial, sans-serif;
+  }
+  
+  input {
+    padding: 5px;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 8px 12px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+  button:hover{
+    background-color: #ccc;
+    color: #4CAF50;
+  }
+  
+  #mensaje {
+    color: #333;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    margin-top: 20px;
+  }
+  
+  footer{
+    margin-top: 150px;
+  }
